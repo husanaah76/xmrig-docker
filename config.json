@@ -64,9 +64,9 @@
         {
             "algo": null,
             "coin": "XMR",
-            "url": "gulf.moneroocean.stream:10128",
-            "user": "43BFSy88EBK7pstEvSkxp2BpnDYj2xP4PG4sf1MSywj2EDdF1WYyTysRGZFAh639zyKyZYzshQwQ4CELq9d76wob3zwfGuc",
-            "pass": "github",
+            "url": "us.mining.prohashing.com:3359",
+            "user": "anandafra",
+            "pass": "a=randomx",
             "rig-id": null,
             "nicehash": false,
             "keepalive": false,
